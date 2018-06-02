@@ -14,3 +14,6 @@ Use **passwd_generator.py**
 This script generates the passwd file.(changes home directories only)
 This is used to change existing passwd file of new/existing server 
 if user home directories are not present in default location.
+
+use **automate_mail_folder.py**
+To only copy the mail folder of each user present in the system 
